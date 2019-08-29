@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userID": 1,
+      "title": "News title goes here 1",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed in leo eget nibh convallis sagittis. Etiam et eleifend ipsum. Proin vel diam augue. In hac habitasse platea dictumst. Fusce in augue nulla. Duis consequat ullamcorper dapibus. Integer orci orci, sodales in efficitur sit amet, viverra id felis. Praesent sollicitudin ultricies urna et sagittis. Donec ultricies mauris a ullamcorper hendrerit. Integer finibus quis dolor quis consectetur. Cras diam mi, commodo vel commodo ac, tempus id elit. Suspendisse aliquam dui non ligula porttitor, vitae scelerisque quam pharetra. Nulla ac neque et enim consequat aliquet non ut leo. Morbi convallis consectetur eleifend. Sed varius ligula in maximus malesuada."
+    },
+    {
+      "id": 2,
+      "title": "News title goes here 2",
+      "author": "Aliquam erat volutpat. Pellentesque non nisi rutrum, ultrices justo pharetra, iaculis est. Pellentesque vestibulum fringilla quam, nec interdum nisi. Donec ipsum erat, sodales non molestie vel, fringilla quis diam. Cras a eros laoreet, vehicula tellus feugiat, iaculis lorem. Praesent consequat tincidunt lorem, nec malesuada eros. Nulla gravida lorem ullamcorper risus gravida varius vel nec nisl. Integer ut ipsum magna. Ut eu faucibus sem. In varius ligula justo, at ullamcorper quam rutrum a. Aliquam a sapien nec neque tempus sagittis non eu diam. Phasellus purus magna, tempor sed dapibus at, blandit in ipsum. Nullam ex justo, pulvinar ac mauris sed, cursus tincidunt felis."
+    },
+    {
+      "id": 3,
+      "title": "News title goes here 3",
+      "author": "Aliquam erat volutpat. Pellentesque non nisi rutrum, ultrices justo pharetra, iaculis est. Pellentesque vestibulum fringilla quam, nec interdum nisi. Donec ipsum erat, sodales non molestie vel, fringilla quis diam. Cras a eros laoreet, vehicula tellus feugiat, iaculis lorem. Praesent consequat tincidunt lorem, nec malesuada eros. Nulla gravida lorem ullamcorper risus gravida varius vel nec nisl. Integer ut ipsum magna. Ut eu faucibus sem. In varius ligula justo, at ullamcorper quam rutrum a. Aliquam a sapien nec neque tempus sagittis non eu diam. Phasellus purus magna, tempor sed dapibus at, blandit in ipsum. Nullam ex justo, pulvinar ac mauris sed, cursus tincidunt felis."
+    },
+    {
+      "id": 4,
+      "title": "News title goes here 4",
+      "author": "Aliquam erat volutpat. Pellentesque non nisi rutrum, ultrices justo pharetra, iaculis est. Pellentesque vestibulum fringilla quam, nec interdum nisi. Donec ipsum erat, sodales non molestie vel, fringilla quis diam. Cras a eros laoreet, vehicula tellus feugiat, iaculis lorem. Praesent consequat tincidunt lorem, nec malesuada eros. Nulla gravida lorem ullamcorper risus gravida varius vel nec nisl. Integer ut ipsum magna. Ut eu faucibus sem. In varius ligula justo, at ullamcorper quam rutrum a. Aliquam a sapien nec neque tempus sagittis non eu diam. Phasellus purus magna, tempor sed dapibus at, blandit in ipsum. Nullam ex justo, pulvinar ac mauris sed, cursus tincidunt felis."
+    },
+    {
+      "title": "kkkk",
+      "id": 5
+    },
+    {
+      "title": "kkkk",
+      "id": 6
+    },
+    {
+      "title": "hhhhhhhhhh",
+      "id": 7
+    },
+    {
+      "title": "Hello World",
+      "id": 8
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "type": "admin",
+      "username": "jimey1000",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "type": "user",
+      "username": "refaat1000",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "type": "user",
+      "username": "hazem1000",
+      "password": "123456"
+    }
+  ],
+  "profile": [
+      {
+        "id": 1,
+        "userId": 1,
+        "name": "Ahmed Jamal",
+        "email": "jimey1000@gmail.com"
+      },
+      {
+        "id": 2,
+        "userId": 2,
+        "name": "Refaat",
+        "email": "refaat1000@gmail.com"
+      }
+  ]
+    
+     
+}
