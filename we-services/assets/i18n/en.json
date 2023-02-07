@@ -1,0 +1,115 @@
+{
+    "TopNav": {
+        "Personal": {
+            "Title": "Personal",
+            "Url": "https://te.eg/wps/portal/te/Personal"
+        },
+        "Business": {
+            "Title": "Business",
+            "Url": "https://te.eg/wps/portal/te/Business"
+        },
+        "InvestorRelations": {
+            "Title": "Investor Relations",
+            "Url": "http://ir.te.eg"
+        },
+        "CSR": {
+            "Title": "CSR",
+            "Url": "https://csr.te.eg/en"
+        }
+    },
+    "Footer": {
+        "MainFooter": {
+            "InvestorRelation": {
+                "Title": "Investor Relations",
+                "Url": "http://ir.te.eg/"
+            },
+            "SiteMapPersonal": {
+                "Title": "SITEMAP (PERSONAL)",
+                "Url": "https://www.te.eg/wps/portal/te/Personal/sitemap/!ut/p/z1/lZJRb4IwFIX_invwkdxLoaU8kpERR5wR45S-LBU7100Khkq2fz94mcmMsPXpNjnn9jv3FgRsQRjZ6oO0ujLy2N1zwV7SZUzcRYLpImQhRvNZjGEWkIS5sPklSJ-8ThDGeP_AXJwHIG77MfOv_FcCMfz-MwgQhbG1fYPcqinKXXW2P8W5mWKpm6ZLM5FmP2l1X_aeutB7yCXnxEeFjk9eqePvCuJIpagTSupLpAUrOB1m7CF6RrxxIhzJyMlYxk3PO9JhjGGwQ7JkkHeQwUWAPCMYuSRg6SzzkCCs_jm1x7FY3d_S76eTiLoFVsaqTwvbP29wpQzU5Xpdcu9LOx8ZR48e28PdN1DY8SY!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzUwRDJJMFMwTEcwUjUwQVJMTk8zRFYxMDMy/"
+            },
+            "SiteMapBusiness": {
+                "Title": "SITEMAP (BUSINESS)",
+                "Url": "https://www.te.eg/wps/portal/te/Business/Sitemap-Business/!ut/p/z1/lZJRb4IwFIX_invwkdxLoaU8kpERR5wR45S-LBU7100Khkq2fz94mcmMsPXpNjnn9jv3FgRsQRjZ6oO0ujLy2N1zwV7SZUzcRYLpImQhRvNZjGEWkIS5sPklSJ-8ThDGeP_AXJwHIG77MfOv_FcCMfz-MwgQhbG1fYPcqinKXXW2P8W5mWKpm6ZLM5FmP2l1X_aeutB7yCXnxEeFjk9eqePvCuJIpagTSupLpAUrOB1m7CF6RrxxIhzJyMlYxk3PO9JhjGGwQ7JkkHeQwUWAPCMYuSRg6SzzkCCs_jm1x7FY3d_S76eTiLoFVsaqTwvbP29wpQzU5Xpdcu9LOx8ZR48e28PdN1DY8SY!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzUwRDJJMFMwTEcwUjUwQVJMTk8zRFYxR0k0/"
+            },
+            "FollowUs": {
+                "Title": "FOLLOW US"
+            },
+            "DownloadApp": {
+                "Title": "DOWNLOAD OUR APP"
+            }
+        },
+        "FooterLite": {
+            "content": "For all mobile, internet and fixed line users: in case you are unable to solve any problem you have encountered with your service provider, kindly dial <span class='text-en'>155</span> to call the National Telecom Regulatory Authority (NTRA) customer service call center and submit your complaint. This number works seven days a week, from <span class='text-en'>8:00</span> a.m. to 10:00 p.m.",
+            "CopyRight": "Copyright <span class='text-en'>© 2017</span> Telecom Egypt. All Rights Reserved."
+        }
+    },
+    "ManageAccount": {
+        "Landline": {
+            "Title": "Manage My Landline",
+            "Url": "https://billing.te.eg/en-US/Login"
+        },
+        "Internet": {
+            "Title": "Manage My Internet",
+            "Url": "https://my.te.eg/#/home/signin"
+        },
+        "Mobile": {
+            "Title": "Manage My Mobile",
+            "Url": "https://my.te.eg/#/home/signin"
+        }
+    },
+    "Modules": {
+        "Sonic": {
+            "Title": "Sonic",
+            "ChooseYourPlan": "Choose your plan",
+            "SelectedPlan": "Your Selected Plan is",
+            "TechVisitText": "Technical Visit Request",
+            "TechVisitCost": "Technical Visit will cost (75 L.E)"
+        }
+    },
+    "Units": {
+        "EGP": "EGP",
+        "MB": "Mbps",
+        "GB": "GBs",
+        "Month": "Month",
+        "Year": "Year",
+        "UpTo": "Up to"
+    },
+    "Forms": {
+        "Buttons": {
+            "Back": "Back",
+            "Next": "Next",
+            "Submit": "Submit",
+            "ClearFields": "Clear Fields",
+            "Register": "Register",
+            "Subscribe": "Subscribe",
+            "Migrate": "Migrate",
+            "Ok": "Ok"
+        },
+        "Controls": {
+            "Name": "Name",
+            "Email": "Email",
+            "Mobile": "Mobile",
+            "LandlineNumber": "Landline Number",
+            "IdType": "ID Type",
+            "IdNumber": "Id Number",
+            "NationalId": "National ID",
+            "Passport": "Passport",
+            "TermConditions": "I Agree to the Terms & Conditions",
+            "VAT": "VAT 14%",
+            "IncludeVat": "Include VAT",
+            "Price": "Price",
+            "Payment": "Payment",
+            "Total": "Total"
+        },
+        "Errors": {
+            "Generic": "Something went wrong, please try again later."
+        },
+        "Success": {
+            "Generic": "Data sent successfully"
+        },
+        "Titles": {
+            "CustomerInformation": "Customer Information",
+            "PackageInformation": "Package Information"
+        }
+    }
+}

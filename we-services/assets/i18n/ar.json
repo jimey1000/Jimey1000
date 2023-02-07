@@ -1,0 +1,115 @@
+{
+    "TopNav": {
+        "Personal": {
+            "Title": "شخصي",
+            "Url": "https://te.eg/wps/portal/te/Personal/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zivQNdjAz93Q28_S3NLA0cfT1dDCyDzI0Mgkz0w_EqsDDSj6JEP1ABSL8BDuBoANQfhdcKkAsImRGcWKRfkBsaYZBloggAwtBRag!!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0tRRDIxT0cwS09LTjMwQU05RDBDRjYxME03/"
+        },
+        "Business": {
+            "Title": "الأعمال",
+            "Url": "https://te.eg/wps/portal/te/Business/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zivQNdjAz93Q28_S3NLA0cfT1dDCyDzI0Mgkz0w_EqsDDSj6JEP1ABSL8BDuBoANQfhdcKkAsImVGQGxphkOmoCADfp1f4/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+        },
+        "InvestorRelations": {
+            "Title": "علاقات المستثمرين",
+            "Url": "https://ir.te.eg/ar"
+        },
+        "CSR": {
+            "Title": "المسئولية المجتمعية",
+            "Url": "https://csr.te.eg/ar"
+        }
+    },
+    "Footer": {
+        "MainFooter": {
+            "InvestorRelation": {
+                "Title": "علاقات المستثمرين",
+                "Url": "https://ir.te.eg/ar"
+            },
+            "SiteMapPersonal": {
+                "Title": "خريطة الموقع (شخصي)",
+                "Url": "/wps/portal/te/Personal/sitemap/!ut/p/z1/jZBLT8MwEIR_ja_x2FZTm5vBoippGwiCBl9QKpk0Ul6yXRD_nlAOCJXX3nb1zexoqKUltX313NRVbIa-aqf9waaPMxi-xC1WCxQz6GK1yYW5ZxCcbo9AdmM4yxfIcpUq6PXSQBVzDsmp_Y_-F-Bdjx9GY9LbI_KZINuIKYEyuLhMGdbzE-A04l9Prqit22H30Yfud0LW1Hr35LzzycFP532M4xkBAVM8YalMGJeJkAQvYyDoXsfBx6oliI7g_BCa3oXwndl-CJGWX03o2N2VaK67rQz6DaKazis!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+            },
+            "SiteMapBusiness": {
+                "Title": "خريطة الموقع (شركات)",
+                "Url": "/wps/portal/te/Business/Sitemap-Business/!ut/p/z1/jZDNTsMwEISfxtfs2GlTh5tRpCi0JZAKGnxBqWTSSPmT7YJ4-6blhERb9rarb2ZHQ5pK0n312dSVb4a-aqf9TUfvcyQiwwarFMUcqlg95mHyytNsRtszsHxOBM9TLPM4iqHWWYK4WAhIQfo_-ivASY8LozDp9Rm5lKCY3QBOEW89eSBdt8Pupw_V70JZk7bmw1hjg4OdznvvxzsGBh6LgEcy4EIGoWT4Gh1D9z0O1lctgzcM9wfX9Ma5v8z2g_NU_jahsXsp0Tx1W-nUERAz8T4!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+            },
+            "FollowUs": {
+                "Title": "تابعنا"
+            },
+            "DownloadApp": {
+                "Title": "حمل التطبيق من هنا"
+            }
+        },
+        "FooterLite": {
+            "content": "لمستخدمى المحمول و الانترنت و التليفون الثابت : اذا لم تتمكن من حل مشكلة واجهتك مع الشركة مقدمة الخدمة اتصل برقم <span class='text-en'>155</span> الخاص بمركز خدمة العملاء بالجهاز القومى لتنظيم الاتصالات الذى يعمل من الساعة <span class='text-en'>8:00</span> صباحا و حتى الساعة <span class='text-en'>10:00</span> مساء يوميا.",
+            "CopyRight": "جميع حقوق النشر محفوظة لشركة المصريه للاتصالات <span class='text-en'>© 2017</span>."
+        }
+    },
+    "ManageAccount": {
+        "Landline": {
+            "Title": "إدارة الخطوط الأرضية",
+            "Url": "https://billing.te.eg/ar-EG/Login"
+        },
+        "Internet": {
+            "Title": "إدارة حساب الإنترنت",
+            "Url": "https://my.te.eg/#/home/signin"
+        },
+        "Mobile": {
+            "Title": "إدارة حساب الموبايل",
+            "Url": "https://my.te.eg/#/home/signin"
+        }
+    },
+    "Modules": {
+        "Sonic": {
+            "Title": "سونك",
+            "ChooseYourPlan": "اختر خطتك",
+            "SelectedPlan": "خطتك المختارة هي",
+            "TechVisitText": "زيارة منزلية",
+            "TechVisitCost": "تكلفة الزيارة المنزلية (75 جنيه)"
+        }
+    },
+    "Units": {
+        "EGP": "جنيه",
+        "MB": "ميجابت/ث",
+        "GB": "جيجابايت ",
+        "Month": "شهر",
+        "Year": "سنة",
+        "UpTo": "تصل إلى"
+    },
+    "Forms": {
+        "Buttons": {
+            "Back": "عودة",
+            "Next": "التالي",
+            "Submit": "ارسل",
+            "ClearFields": "مسح",
+            "Register": "تسجيل",
+            "Subscribe": "اشترك",
+            "Migrate": "تحويل الباقة",
+            "Ok": "حسنا"
+        },
+        "Controls": {
+            "Name": "الاسم",
+            "Email": "البريد الإلكترونى",
+            "Mobile": "رقم المحمول",
+            "LandlineNumber": "رقم الهاتف",
+            "IdType": "نوع الهوية",
+            "IdNumber": "رقم الهوية",
+            "NationalId": "رقم قومي",
+            "Passport": "جواز السفر",
+            "TermConditions": "موافق على الشروط والأحكام",
+            "VAT": "ضريبة القيمة المضافة 14%",
+            "IncludeVat": "شامل قيمة الضريبة",
+            "Price": "السعر",
+            "Payment": "الدفع",
+            "Total": "اجمالى"
+        },
+        "Errors": {
+            "Generic": "حدث خطأ يرجى إعادة المحاولة"
+        },
+        "Success": {
+            "Generic": "تمت العملية بنجاح"
+        },
+        "Titles": {
+            "CustomerInformation": "بيانات العميل",
+            "PackageInformation": "تفاصيل الباقة"
+        }
+    }
+}

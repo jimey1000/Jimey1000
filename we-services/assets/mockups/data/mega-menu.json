@@ -1,0 +1,740 @@
+{
+  "en": [
+    {
+      "id": "mobile-list",
+      "title": "Mobile",
+      "nested": true,
+      "link": "",
+      "items": [
+        {
+          "data": [
+            {
+              "id": "mobile-tarrif-items",
+              "title": "Mobile Tariffs",
+              "items": [
+                {
+                  "id": "prepaid",
+                  "text": "Prepaid",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Mobile/Prepaid-12PT"
+                },
+                {
+                  "id": "control",
+                  "text": "Control",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Mobile/Control-WE-MIX"
+                },
+                {
+                  "id": "postpaid",
+                  "text": "Postpaid",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Mobile/Postpaid%20Plans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "internet-items",
+              "title": "Internet",
+              "items": [
+                {
+                  "id": "nitroMobileInternet",
+                  "text": "Nitro Mobile Internet",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Mobile/Nitro-mobile-internet"
+                },
+                {
+                  "id": "nitroMifi",
+                  "text": "Nitro Mifi",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Mobile/Nitro-mifi"
+                },
+                {
+                  "id": "weAir4G",
+                  "text": "WE Air 4G+",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/We-Air-4G"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "home-list",
+      "title": "Home",
+      "nested": true,
+      "link": "",
+      "items": [
+        {
+          "data": [
+            {
+              "id": "WE-internet-items",
+              "title": "WE Internet",
+              "items": [
+                {
+                  "id": "WE-space",
+                  "text": "WE Space",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/WE-SPACE"
+                },
+                {
+                  "id": "WE-sonic",
+                  "text": "WE Sonic",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/WEsonic/"
+                },
+                {
+                  "id": "level-up",
+                  "text": "Level Up",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Personal-Internet-we/Internet-Packages-Level-up"
+                },
+                {
+                  "id": "WE-life",
+                  "text": "WE Life",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Personal-Internet-we/We-Life"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "voice-plans-items",
+              "title": "Voice plans",
+              "items": [
+                {
+                  "id": "WE-ardy",
+                  "text": "WE Ardy",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Personal%20Voice/WE_ardy_bundles/!ut/p/z1/nZJfT8IwFMU_iw88Lr3dn659XFwUXBABEdaXpa5Fq1s3oAHx07MZH9RFFu1L0_Tec3-np4ijFeJG7PWTsLoyomjOKSdZMo1dPLmGBO5YCNGY-ItpTDGEAVp-L5gkt15TwGK4vCIYxiHi5_sfEEc8N7a2zyi1agBbtdNSGatFMYB9pXP1udWFMLsBHFQmtkIeM6MO2cdFq1DnWqKUUj8PfHftuFIEjo9D5jCCiSOpRyhh4jHA8idxF6klhl9WBB3HjLCmfxQDm4UuULfP8bLl7VHoY-Bnh2C_M6ITS9q4CL8oUGgZsDcKFkMME4zmf3zWmz7fzVfSL5sNj5q8K2PVm0WrfwY-F1tUl4uSekftvM6G7_frculEFyeJJd6e/dz/d5/L0lHSkovd0RNQURrQUVnQSEhLzROVkUvZW4!/"
+                }
+              ]
+            },
+            {
+              "id": "prepaid-items",
+              "title": "Prepaid",
+              "items": [
+                {
+                  "id": "marhaba",
+                  "text": "Marhaba",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Personal%20Voice/Personal%20Voice%20Prepaid%20Cards/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zivQNdjAz93Q28_b39jA0cfS1dDJzdzAwNfM31wwkpiAJKG-AAjgZA_VFgJQgTLM0sgSZ4uhhYBpkbGVgYQRXgMSM4NU-_IDfCIMvEUREAt8qmQQ!!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0tRRDIxT0cwSzBQOTcwQU02NFVRRDgxME4z/?1dmy&urile=wcm%3apath%3a/te/Personal/voice/prepaidcards/marhaba+and+marhaba+plus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "new-landline-items",
+              "title": "Get a new Landline",
+              "items": [
+                {
+                  "id": "get-new-landline",
+                  "text": "Your Landline enables you to make any calls and get online at home, just visit your nearest store to subscribe to your new landline.",
+                  "type": "paragraph",
+                  "url": ""
+                },
+                {
+                  "id": "new-landline-action",
+                  "text": "More info",
+                  "type": "button",
+                  "url": "https://te.eg/wps/portal/te/Personal/Personal%20Voice/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zivQNdjAz93Q28_b39jA0cfS1dDJzdzAwNfM31wwkpiAJKG-AAjgZA_VFgJQgTLM0sgSZ4uhhYBpkbGVgYQRXgMaMgN8Ig01FREQA1DOZq/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0tRRDIxT0cwSzBQOTcwQU02NFVRRDgxMDE0/#Get-New-Landline"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "services-list",
+      "title": "Services",
+      "nested": true,
+      "link": "",
+      "items": [
+        {
+          "data": [
+            {
+              "id": "services-items",
+              "title": "Services",
+              "items": [
+                {
+                  "id": "mobile-services",
+                  "text": "Mobile Services",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Services"
+                },
+                {
+                  "id": "balance-services",
+                  "text": "Balance Services",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Balance-Services"
+                },
+                {
+                  "id": "fixed-voice-services",
+                  "text": "Fixed Voice Services",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Fixed-Call-Services"
+                },
+                {
+                  "id": "fixed-broadband",
+                  "text": "Fixed Broadband",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Fixed-Broadband"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "services-reset-items",
+              "title": "&nbsp;",
+              "items": [
+                {
+                  "id": "international-roaming",
+                  "text": "International & Roaming",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/International-Roaming"
+                },
+                {
+                  "id": "entertainment-services",
+                  "text": "Entertainment Services",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Entertainment"
+                },
+                {
+                  "id": "MNP",
+                  "text": "MNP",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Other-Services?1dmy&urile=wcm%3apath%3a%2Fte%2Fresidential%2Fmobile%2Bmodule%2Fservices%2Fother-services%2F03-mnp%2F03-mnp"
+                },
+                {
+                  "id": "others-services",
+                  "text": "Others Services",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Other-Services"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "devices-list",
+      "title": "Devices",
+      "nested": true,
+      "link": "",
+      "items": [
+        {
+          "data": [
+            {
+              "id": "devices-items",
+              "title": "Devices",
+              "items": [
+                {
+                  "id": "routers",
+                  "text": "Routers",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/Routers"
+                },
+                {
+                  "id": "fixed-landline-phones",
+                  "text": "Fixed Landline Phones",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/Fixed-Landline-Phones"
+                },
+                {
+                  "id": "usb-modems",
+                  "text": "USB Modems",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/USB-Modems"
+                },
+                {
+                  "id": "4G-routers",
+                  "text": "4G Routers",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/4G-Routers"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "devices-reset-items",
+              "title": "&nbsp;",
+              "items": [
+                {
+                  "id": "mobile-phones",
+                  "text": "Mobile Phones",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/Mobile-Phones"
+                },
+                {
+                  "id": "accessories",
+                  "text": "Accessories",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/Accessories"
+                },
+                {
+                  "id": "all-devices",
+                  "text": "All",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "promotions-list",
+      "title": "Promotions",
+      "nested": true,
+      "link": "",
+      "items": [
+        {
+          "data": [
+            {
+              "id": "promotions-items",
+              "title": "Promotions",
+              "items": [
+                {
+                  "id": "weInternet",
+                  "text": "WE Internet",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Promotions/Internet-Promotions"
+                },
+                {
+                  "id": "fixedVoice",
+                  "text": "Fixed Voice",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Promotions/Landline-Promotions"
+                },
+                {
+                  "id": "mobile",
+                  "text": "Mobile",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Promotions/Mobile-Promotions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "promotions-reset-items",
+              "title": "&nbsp;",
+              "items": [
+                {
+                  "id": "other-promotions",
+                  "text": "Others",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Promotions/Other-Promotions"
+                },
+                {
+                  "id": "all-promotions",
+                  "text": "All",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Promotions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wePay-list",
+      "title": "WE Pay",
+      "nested": false,
+      "link": "https://te.eg/wps/portal/te/Personal/?1dmy&urile=wcm%3apath%3a%2Fte%2Fresidential%2Fmobile%2Bmodule%2Fservices%2Fother-services%2Fwe%2Bpay%2Fwe_pay",
+      "items": []
+    }
+  ],
+  "ar": [
+    {
+      "id": "mobile-list",
+      "title": "موبايل",
+      "nested": true,
+      "link": "",
+      "items": [
+        {
+          "data": [
+            {
+              "id": "mobile-tarrif-items",
+              "title": "أنظمة الموبايل",
+              "items": [
+                {
+                  "id": "prepaid",
+                  "text": "أنظمة الكارت",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Mobile/Prepaid-12PT/!ut/p/z1/jY9LC4JAFIV_0hyv6DhLc3QcRhMflc0mXIlQ1iL6_WkEEdLj7C58H-dcZlnL7Njdhr67DuexO0733voHD5I0amRB2bgot7RKTeViCts9AFNKcgoFUwhfIMy1hKg4ISBm__G_ALOPDwln375XqFrFCJPYyxreUJTSE3hNNGt3migkosR3kPMFsPzh14rLadNi0P0dwkbuzg!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "control",
+                  "text": "أنظمة كنترول",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Mobile/Control-WE-MIX/!ut/p/z1/jZDZCoJQEIafpQeIGY9bXrpramIu2bkJLTHJNFB8_myBIGmZu4HvZ775gUIKtMmGqsz6qm2yety3VNjxqBEbQ3RNxRYwSNxYMRKORZPA5g44gUYY30THlwQJZc_WUFqLBBcE6D_5L8Atjx9GxjFP306Epo6yofNuJEZEtcgTeCk6K3ZUlDRUDYFBT5wA0x9-WSyBlnWbPwo7ccd4kIF2fdYXkO7rtisOYCFcznGKlT2nOTe7AtmivLk!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "postpaid",
+                  "text": "أنظمة الفاتورة",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Mobile/Postpaid%20Plans/!ut/p/z1/nZJbT8IwGIb_il5wufRbt27t5cIO4EAC47TemMKKVndCqlF_vYWYmEiAYG_apt_Tvu_3FnG0RLwW7-pRaNXUojT7nHsPBELchwwGCZvHMKae64xTjAHbaHEoSMchtkcJpKP03oFgyELoxp4NQx_x63jmMcP3Q2ATHwPFl_g54oiva93qJ5Rr2YFXuVOFrLUSZQeqZqVKeVM1xVtpztpmp1uhit_Vnm7XZs4LSkBStrLW0vYtd-MISxCbWY5PKMEuYZ7NftSekbNXCydGAIbnh5Jzfi_dwf-0JEsiCOKIDKb-FHd7-OiJo0hy48I_6SLyUHZlW-4upWS-kXrebnlgsmpqLT80Wv4jrEzWqK1ms4o6n9bLpPc13VQLK7j9Bks-ujk!/dz/d5/L0lHSkovd0RNQURrQUVnQSEhLzROVkUvYXI!/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "internet-items",
+              "title": "إنترنت",
+              "items": [
+                {
+                  "id": "nitroMobileInternet",
+                  "text": "باقات <span class='text-en mx-1'>Nitro</span> للموبايل انترنت",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Mobile/Nitro-mobile-internet/!ut/p/z1/jY_LDoIwEEU_qZfhZZeVFqyADQ8jdmNYERJFF8bvF4yJicTH7CY5J3OGWdYwO7S3vmuv_Xloj-O-t8HBhySNClli1hGKpTKeKisXHtjuAaSFJMckSA0POESuJXgZEhbE7D_-F2Dy8WHE5Nu3E1WiIGLlZ3VYU7SiJ_BKTDfumMglojhwkIczYP7Dr4rLadug190d9sN_7g!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "nitroMifi",
+                  "text": "باقات <span class='text-en mx-1'>Nitro Mifi</span> لخطوط الداتا",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Mobile/Nitro-mifi/!ut/p/z1/jY_NDoIwEAYfqR9Fij1WWrACNlAM2IvhREgUPRifXzAmJhJ_9rbJTHaWONIQN7S3vmuv_Xloj-O-d-wQQFINiywxmwjFSpmFKq0PDVI_gLSQ1DMJUsMZh8i1BC9DiiUl7h__CzD5-DBi8t3bCZsoiFgFWRVWNFrTJ_BKTLf-mMgloph5yMMZMP_hV8XltGvQ6-4OIy2iig!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "weAir4G",
+                  "text": "باقات <span class='text-en mx-1'>+WE Air 4G</span>",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/We-Air-4G/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQ1cjDwNgg18DAJ8DA0CLU38nPzdTY0NDAz0w8EKvANdjAz93Q28_S3NLA0cfT1dDCyDzI0MLIz0o4jRj0cBSL8BDuAI0h8FVoJwgbefMdAFli4Gzm5mhga-5hgKMJ1IyJKC3NAIg0xPRQC3GIv2/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "home-list",
+      "title": "المنزل",
+      "nested": true,
+      "link": "",
+      "items": [
+        {
+          "data": [
+            {
+              "id": "WE-internet-items",
+              "title": "<span class='text-en mx-1'>WE</span> إنترنت",
+              "items": [
+                {
+                  "id": "WE-space",
+                  "text": "<span class='text-en mx-1'>WE Space</span>",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/WE-SPACE/!ut/p/z1/jY67CgIxFES_xS-4k4hZUwaDEmJc4nO9zZJKArpaiN9v3MZi8THdwDnMEFND3KVHPqV7vnbpXPqRVTuBlQ4bLCEAxKj3qzG2QBB06AEfrRT1Ar7WSsMEZ6HXlcRUEv_jfwFePj7EoPjcI-8HvqgmaIvZXAmEagAML_4auV12DbIbPQEM85kP/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "WE-sonic",
+                  "text": "<span class='text-en mx-1'>WE Sonic</span>",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/WEsonic/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQ1cjDwNgg18DAyCjA3MnA3C_Dx8TQ0N3I30w8EKvANdjAz93Q28_S3NLA0cfT1dDCyDzI0MLIz0o4jRj0cBSL8BDuBoANQfBVaCcIG3nzHQBZYuBs5uZoYGvuYYCjCdSMiSgtzQCINMT0UA9NTGmA!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "level-up",
+                  "text": "<span class='text-en mx-1'>Level Up</span>",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Personal-Internet-we/Internet-Packages-Level-up/!ut/p/z1/jY-9CsIwFEYfKV-SNk3G0lAJNdYqwZqlZCoBrQ7i8xs7OFj8udsH58C5xJOe-Cnc4xhu8TKFU9pHL4YcmhnssZaS5-iqurRUOg6TkcMMNJ1mtF2haZVQKK3RULuCQTLi__G_AE8fH65E8v2MvAqwVUUqEJnrtKRweAfaZsMToDSqWlDYYgEsf_hVcT27HtGMDwTzi94!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "WE-life",
+                  "text": "<span class='text-en mx-1'>WE Life</span>",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Personal-Internet-we/We-Life/!ut/p/z1/jY-9CsIwFEYfKV-iJr1jNTSE2MYqwZpFOpWCVgfx-Y0dHCz-3O2Dc-BcFlnD4tDe-6699ZehPaV9iPK4gBYWO6zhKkK9NJaKygNGsP0IuFoL7g2cJ0nIS6tBWyWQCRb_8b8ATx8fLkfy44i8CrAhlQrkPNQ64wh4B7yrZgkgjVUhOUo1AaY__Kq4nkOD3nYPw4JD3w!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "voice-plans-items",
+              "title": "انظمة الخط الأرضي",
+              "items": [
+                {
+                  "id": "WE-ardy",
+                  "text": "<span class='text-en mx-1'>WE</span> أرضي",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Personal%20Voice/WE_ardy_bundles/!ut/p/z1/04_iUlDgAgP9CCATyEEmKOboR-UllmWmJ5Zk5ucl5uhH6EdGmcV7B7oYGfq7G3gbBFiaGzj6mpmEBrpYGBqYm-p76UfhVxCcWKRfkB2oCAAnx_Y9/"
+                }
+              ]
+            },
+            {
+              "id": "prepaid-items",
+              "title": "الكروت المدفوعة مقدما",
+              "items": [
+                {
+                  "id": "marhaba",
+                  "text": "مرحبا",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Personal%20Voice/Personal%20Voice%20Prepaid%20Cards/!ut/p/z1/pVPBUtswFPyVXnzU6MmSJeuYaQglGRIIOBBdGFmWWrWJExyTKXx95TYzCbjYdOqLpJldv7f79mGF77Eq9d5_1bXflHoV3kvFHybXw5jMzmECV1LA4JKz7HqYEhAJvnsNmE2mNADkED6POIFLgVUHf0pbfMllAFwMQc5FDGncyW_Xbxfo4o8EXmCFlSnrbf0NL2sbQWV3vrBl7fUqgv3GG3s4titd7iLwZW2r8uDPg4SGvzW-wEtRGKYTSZEtBEWM2xhJoAxxqmWRJzljpq_fUbdfGfTwA-C__AqAhg_vfIOmvnpd4i8T6_uH6mySsFaJdqj6bFoGmeIISJPFb4AYLMZzcn4V45vj3KxwRnPikCmsQEyARNpqjQyNnc7DTEnC8LgvSGFT_PfHRzUIcdqEjPys8X1nnna22jdHBMdbEZifCr-rn6oc3-iqWwfc0lMdzOTgGDjkdMIRI9ainFuKYu2EMMCN09CjIzj3IR1_lsDWEehitzrp3x4u1eYpIN62Dyk0WSH0Ism-EJiR0_Y_tD7jvnz_8xjeW-vtOsuydUqfvUc_5mduOkUqZzpPn-nLrVvf_QKS2GMM/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X0tRRDIxT0cwSzBQOTcwQU02NFVRRDgxME4z/?1dmy&urile=wcm%3apath%3a/te/Personal/voice/prepaidcards/marhaba+and+marhaba+plus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "new-landline-items",
+              "title": "تفاصيل الخط الأرضي",
+              "items": [
+                {
+                  "id": "get-new-landline",
+                  "text": "يمكنك إجراء جميع المكالمات و الدخول على الإنترنت من خلال الخط الأرضي ، قم بزيارة أقرب فرع للإشتراك في خطك الأرضي.",
+                  "type": "paragraph",
+                  "url": ""
+                },
+                {
+                  "id": "new-landline-action",
+                  "text": "المزيد",
+                  "type": "button",
+                  "url": "https://te.eg/wps/portal/te/Personal/Personal%20Voice/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zivQNdjAz93Q28DQIszQ0cfc1MQgNdLAwNDE30w1EV-Hv7GQMVWLoYOLuZGRr4mutHkabf0swSqMDTxcAyyNzIwMKIRP2YCkD6DXAARwOg_ihUK7C4gJAZ6CZghEFBbmhohEGmJwAfhEi3/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/#Get-New-Landline"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "services-list",
+      "title": "الخدمات",
+      "nested": true,
+      "link": "",
+      "items": [
+        {
+          "data": [
+            {
+              "id": "services-items",
+              "title": "الخدمات",
+              "items": [
+                {
+                  "id": "mobile-services",
+                  "text": "خدمات الموبايل",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Services/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQ1cjDwNgg183IPdXQ0c3VxNfULMQ4ycvQz1w8EKvANdjAz93Q28_S3NLA0cfT1dDCyDzI0MLIz0o4jRj0cBSL8BDuBoANQfhdcKDyOoAoQTvf2MgU60dDFwdjMzNPA1x1CA6QdCrijIDY0wyPRMBwB-Azuq/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "balance-services",
+                  "text": "خدمات الرصيد",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Balance-Services/!ut/p/z1/jY9fC4IwFEc_0n5O5tyjbTpFTWyTdC_hkwhlPUSfP40gQvpz3y6cwz2XONISN_W3ceiv43nqj_PeueDAoGgGgyLc6BC1aaxmZepDguwfQF4r6lUaeSUCgajMFMSOU4SUuH_8L8Di48NEi-_eT2ijY0RJzArLLZUpfQKvxHzrz4lCQSaBh5KvgPUPvyoup6bFmA13-9cgQg!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "fixed-voice-services",
+                  "text": "خدمات التليفون الارضى",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Fixed-Call-Services/!ut/p/z1/jY9fC4IwFEc_0n6buLnH5XSKmtiUbC-xJxHKeog-fxZBhPTnvl04h3sucaQnbvLXcfCX8TT5w7zvHN-H0CyHRRmtTITGdq0JqyyApWT7AIpGM1obFLXkEqrKNeRGMESMuH_8L8Ddx4dRmH33fsJYk0ClSVi2omVxxp7AK7FYB3Oi1IhTTlGJBbD84VfF-dj1GPPhBhgiVvU!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "fixed-broadband",
+                  "text": "خدمات الانترنت",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Fixed-Broadband/!ut/p/z1/jY9fC4IwFEc_0n5ONt2jOZ1DTWyTdC_hkwhlPUSfP40gQvpz3y6cwz2XONISN_W3ceiv43nqj_PeOX5gkFTDoAg3KkRtGqtYmfnQIPsHkNeSepVCXgkuEJVaQuwCipAS94__BVh8fJho8d37CWVUgihNWGEDS-OMPoFXYr7150QhEafcQxmsgPUPvyoup6bFqIc78Ka25g!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "services-reset-items",
+              "title": "&nbsp;",
+              "items": [
+                {
+                  "id": "international-roaming",
+                  "text": "المكالمات الدوليه والتجوال",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/International-Roaming/!ut/p/z1/jY_LDoIwEEU_qbc1tHRZKRQClSAQoRvTFSFRdGH8ftGYGEN8zG6Sc2buJY50xE3-Og7-Mp4mf5j33vF9AM0y1CjCtQlR1W1jApuuoCjZPYC80oyWBnkpuYSymYbcCoaQEfeP_wW4-_gwCrPv3l-Y2sRQSRwUjWhYlLIn8IqYb-bDVmpECaewYgEsO_xKcT62HcZsuAG2FoYE/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "entertainment-services",
+                  "text": "الترفيه",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Entertainment/!ut/p/z1/jZDdboJAEIWfZi_rHFblp3cEBClatWqKe2MgWZGEAlm2NX37orZpotF27mZyvpkzhwQlJKr0o8hTXdRVWnb9RpjbIXweYYlJaM9NLNZjLwrgGcCAXk-CeOFzYxYinjmmA3ca-XBeLA6bk_gPf0dw5HGjXHS8uDixDEdwg9FwsrJW3Bvzb8Gvxfi531l0fHiBaWBqXQmuf_jLxROJvKyzc2BulfXtnISSO6mk6r2rbrzXumkfGRi07Mmc4dC0DE2tdFoeZwxzqdqfzC9X7OtWU3IiqXlbJyiiB5F9Hr4AKnYkHA!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "MNP",
+                  "text": "خدمة نقل الارقام",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Other-Services/!ut/p/z1/rZLLbsIwEEV_pRuWlic2eS1TEgKFFEFCId5UJjHFbV6Ai0q_vqaiQhUCVKneWKO5Y82515jhOWYV38kXrmRd8ULXKbOeTfBJH2IYOvehA-N4moRm1KMQETz7FgzGPjFGIQxGruWCF_V9cCc2AYdgdn3-CTPMsko1aoVTJVqwEVuZi0pJXrSgrBeyEHdlnb8XurcVm53MxLYFtVqJDTrVQFFZNT_34c0mkzlOlyQXwgYXEcFt1CbUQjwnOaLgLgxKMyPL2keGK0seGODC8UDPs9-YYRwG4HUDc5jYCen0yFFwsmnwSLVNrg-drmVAZJ8Jzn28tUWqKeyLFAHF8R9tebiVnf4c8nW9Zp5OsK6U-FB4_m8RNuW0dOgevU16n8mynH0BEevW2g!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "others-services",
+                  "text": "خدمات اخرى",
+                  "type": "link",
+                  "url": "https://www.te.eg/wps/portal/te/Personal/Mobile/Other-Services/!ut/p/z1/jY9bC4JAEEZ_0n6OeNlHc3VddBNTyfYl9kmEsh6i398WQYR0mbeBc5gzzLCBmdlep9FeptNsD27fmXAfQJBCiypeyRhN23cy0IUPTWz7AMpGkFdLlDUPORKtBPgmIsTEzD_-F-Du48MkcL55PyFbmSHJs6Dqoo7Sgp7AK7Fc-y6RC6R56EFHC2D5w6-K87EfMKnxBmok-2s!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "devices-list",
+      "title": "أجهزة",
+      "nested": true,
+      "link": "",
+      "items": [
+        {
+          "data": [
+            {
+              "id": "devices-items",
+              "title": "أجهزة",
+              "items": [
+                {
+                  "id": "routers",
+                  "text": "راوتر",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/Routers/!ut/p/z1/jY_BCsIwEAU_Ka9pTJtjSGgJsS1VxLoXyakEtHoQv98ogodidW8LM-wsIzYwmsI9juEWL1M4pf1A8riC5Q5brMtcCPRaibYyBqg5278A31uedTV8p6SCbpyF2hQcJWf0j78APH18GY3k0-IJ4A18En2bp0RlYSqZoSlmwPyHXxXX825AdOMDt59E-A!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "fixed-landline-phones",
+                  "text": "هواتف أرضية",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/Fixed-Landline-Phones/!ut/p/z1/jY_BCsIwEAU_KS9pTJNjSGgJsS1VxJqL5FQCWj2I328UwUOxureFGXaWBDKQMMV7GuMtXaZ4yvshiOMKljlssZYF5-i14m1lDCAp2b8A31tGuxq-U0JBN85CbUoGyUj4x18Anj6-jEb2w-IJ4A18En1b5ERlYSpB0ZQzYP7Dr4rreTcgufEBJFBUow!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "usb-modems",
+                  "text": "مودم <span class='text-en mx-1'>USB</span>",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/USB-Modems/!ut/p/z1/jY_BCsIwEAU_Ka9JTJtjSGgJsQ1VxJqL5FQCWj2I328UwUOxureFGXaWBDKQMMV7GuMtXaZ4yvshiOMKhlpssa4Y5-iV5F2tNeAZ2b8A1xta-AbOSyGhWmsgNyVFRUn4x18Anj6-jEL2w-IJ4A18El3HcqI00LUo0JYzYP7Dr4rreTcg2fEB8S90Gg!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "4G-routers",
+                  "text": "راوتر <span class='text-en mx-1'>4G</span>",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/4G-Routers/!ut/p/z1/jY_NCsIwEAYfKV_TmHaPIaES0h-qiDUXyakEtPYgPr-tCB6K1b0tzLCzzLOO-SE8Yh_u8TaEy7SfvDxvYLjFHmWeCoFWkagLrQEHdnwBrjU8abZwDUmCqqwB7TKOnDP_j78CzD6-jJp9v3oCeAOfRFenUyIZ6EImqLIFsPzhV8V4PXSItn8CTt40Rg!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "devices-reset-items",
+              "title": "&nbsp;",
+              "items": [
+                {
+                  "id": "mobile-phones",
+                  "text": "أجهزة موبايل",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/Mobile-Phones/!ut/p/z1/jY_BCsIwEAU_Ka9pTJtjSGgJsS1VxLoXyakEtHoQv98ogodidW8LM-wsIzYwmsI9juEWL1M4pf1A8riC5Q5brMtcCPRaibYyBjCc7V-A7y3Puhq-U1JBN85CbQqOkjP6x18Anj6-jEbyafEE8AY-ib7NU6KyMJXM0BQzYP7Dr4rreTcguvEBJv1iDA!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "accessories",
+                  "text": "إكسسوارات",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/Accessories/!ut/p/z1/jY_NCsIwEAYfKV_SmDbHkFAJ6Q-1iDUXyakEtPYgPr9RBA_F6t4WZthZ4slA_BTucQy3eJ3COe1HL04bGGbRoyoyztEpyZtSa6Cn5PACXGcYbbdwrRQSqrYGcpczFIz4f_wV4Onjyygk36-eAN7AJ9E1WUqUBroUFHW-AJY__KqYL_sB0Y4Pzuh_wg!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "all-devices",
+                  "text": "الكل",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Devices/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQ1cjDwNgg18LIxNTAwCHS1N_NycnQ2AQD8crMA70MXI0N_dwNvf0szSwNHX08XAMsjcyMDCSD-KGP14FID0G-AAjiD9UWAlCBd4-xkDXWDpYuDsZmZo4GuOoQDTiYQsKcgNjTDI9FQEAPrslK0!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "promotions-list",
+      "title": "عروض",
+      "nested": true,
+      "link": "",
+      "items": [
+        {
+          "data": [
+            {
+              "id": "promotions-items",
+              "title": "عروض",
+              "items": [
+                {
+                  "id": "weInternet",
+                  "text": "<span class='text-en mx-1'>WE</span> إنترنت",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Promotions/Internet-Promotions/!ut/p/z1/jY_BCsIwEAU_KS9bTc2xGFqW2JZa1JqL5FQCWj2I32-UgodidW8LM-yscKITbvCP0Pt7uA7-HPejU6clDDFabIo9KzS2ktzmCwKTOLwB2xiSdQFba6WRlWygtylhRcL9488ALx9fJkP03ewJq0bgk2irJCZqg3WuJMp0Akx_-FVxu-w6BO6f7hkT5A!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "fixedVoice",
+                  "text": "خط أرضي",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Promotions/Landline-Promotions/!ut/p/z1/jY_BCsIwEAU_aV_WmppjMbSE2JZa1JpLyakEtHoQv98ogodidW8LM-wsOerIjf4eBn8Ll9Gf4n50sl9Cs0GLTbE3Eo2thGnzhMEJHV6AbTSLuoCtlVTISqOhtiljxeT-8WeAp48vkyH6bvaElW_gk2irRUxUGutcCpTpBJj-8Kviet51CGZ4AN8H_2g!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "mobile",
+                  "text": "موبايل",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Promotions/Mobile-Promotions/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQ1cjDwNgg183MM8zQwCvf0MPYPdTIyAIvrhYAXegS5Ghv7uBt7-lmaWBo6-ni4GlkHmRgYWRvpRxOjHowCk3wAHcATpj8JrhbcZVAHCid5-xkAnWroYOLuZGRr4mmMowPQDIVcU5IZGGGR6pgMAKA6VXw!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "data": [
+            {
+              "id": "promotions-reset-items",
+              "title": "&nbsp;",
+              "items": [
+                {
+                  "id": "other-promotions",
+                  "text": "عروض أخرى",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Promotions/Other-Promotions/!ut/p/z1/jY_LCsIwEEU_KTdR02ZZElpCbENaHzWbklUJaHUhfr-tCCLFx-wGzmHOEE9a4odwi324xvMQjuN-8LxbQTGNBmu7qRWcdDZFJSkAsn8AxilGbQFjBRfISq0g6oQhZcT_438BJh8fJpt8_36i2GkOZyqqm3zJYPgTeCWaajEmCgWZc4oymQHzH35VXE7bFlH3d1tZGkI!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                },
+                {
+                  "id": "all-promotions",
+                  "text": "كل العروض",
+                  "type": "link",
+                  "url": "https://te.eg/wps/portal/te/Personal/Promotions/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTQ1cjDwNgg183MM8zQwCvf0MPYPdTIwMvM30w8EKvANdjAz93Q28_S3NLA0cfT1dDCyDzI0MLIz0o4jRj0cBSL8BDuBoANQfBVaCcIG3nzHQBZYuBs5uZoYGvuYYCjCdSMiSgtzQCINMT0UAI9bXkQ!!/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wePay-list",
+      "title": "<span class='text-en mx-1'>WE Pay</span>",
+      "nested": false,
+      "link": "https://te.eg/wps/portal/te/Personal/Mobile/Other-Services/!ut/p/z1/rVFNT8MwDP0r47BjFDdd2_RYVFTG6KZRPtZcptC4LNCvtWGwf082IXHaEBK-PFnv2X62qaArKhq50y_S6LaRlc1z4a89iNkUMrjllwmHZfZwn3jptQspo49UUFE0pjMbmhscQ4-DVtgYLasx1O2zrnBUt-q9styA_U4XOIyhNRvsyU_-gaNO7g-4tnjo2RVa0bxABaXDfOJxFpCJQpfIiaeIUrwE6aIDAdKn30wKS8OJiMDWi6NktoyZs0hgtgj9EKJ0GkN4FzDg7FtwpkduPQQnPVy5NPvjUjfHiWeWsq_Rr9utiOz928bgp6Grf3tAV9fc3ZO3cj4nIo8uvgCX85wm/dz/d5/L0lDUmlTUSEhL3dHa0FKRnNBLzROV3FpQSEhL2Fy/",
+      "items": []
+    }
+  ]
+}
