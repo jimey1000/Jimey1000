@@ -1,0 +1,80 @@
+{
+    "AsideMenu": {
+        "Dashboard": "لوحة التحكم",
+        "Users": "المستخدمين",
+        "RolesPermissions": "الأدوار والأذونات",
+        "Roles": "الأدوار",
+        "Permissions": "الأذونات",
+        "Reports": "التقارير",
+        "Members": "الأعضاء"
+    },
+    "Modules": {
+        "Dashboard": {
+            "Title": "لوحة التحكم"
+        },
+        "Users": {
+            "Title": "المستخدمين",
+            "AddUser": "إضافة مستخدم",
+            "EditUser": "تعديل مستخدم",
+            "ViewUser": "عرض مستخدم"
+        },
+        "RolesPermissions": "الأدوار والأذونات",
+        "Roles": {
+            "Title": "الأدوار",
+            "AddRole": "إضافة دور",
+            "EditRole": "تعديل دور",
+            "ViewRole": "عرض دور"
+        },
+        "Permissions": {
+            "Title": "الأذونات",
+            "AddPermission": "إضافة اذن",
+            "EditPermission": "تعديل اذن",
+            "ViewPermission": "عرض اذن"
+        },
+        "Reports": {
+            "Title": "التقارير",
+            "AddPermission": "إضافة تقرير",
+            "EditPermission": "تعديل تقرير",
+            "ViewPermission": "عرض تقرير"
+        },
+        "Members": {
+            "Title": "الأعضاء",
+            "AddPermission": "إضافة عضو",
+            "EditPermission": "تعديل عضو",
+            "ViewPermission": "عرض عضو"
+        }
+    },
+    "Labels": {
+        "Choose": "اختر",
+        "Add": "اضافة",
+        "Edit": "تعديل",
+        "Delete": "حذف",
+        "View": "عرض",
+        "Submit": "ارسال",
+        "Cancel": "الغاء",
+        "Close": "اغلاق",
+        "Save": "حفظ",
+        "Back": "عوده",
+        "Welcome": "اهلا",
+        "Model": "موديل",
+        "Status": "الحالة",
+        "Active": "نشط",
+        "Signin": "تسجيل الدخول",
+        "Signout": "تسجيل الخروج",
+        "Name": "الاسم",
+        "DisplayName": "اسم العرض",
+        "Email": "البريد الإلكتروني",
+        "Username": "اسم المستخدم",
+        "Password": "كلمة السر",
+        "Mobile": "تليفون محمول",
+        "Role": "الأدوار",
+        "Description": "الوصف",
+        "UpdatedAt": "آخر تحديث"
+    },
+    "Messages": {
+        "NE": "خطأ في الشبكة",
+        "NEM": "يرجى التحقق من الاتصال الخاص بك",
+        "CntRvrt": "لن تتمكن من التراجع عن هذا",
+        "Sure?": "هل أنت متأكد؟"
+    }
+}
