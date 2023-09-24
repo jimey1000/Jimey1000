@@ -1,0 +1,145 @@
+{
+    "AsideMenu": {
+        "Dashboard": "Dashboard",
+        "Users": "Users",
+        "RolesPermissions": "Roles & Permissions",
+        "Roles": "Roles",
+        "Permissions": "Permissions",
+        "Reports": "Reports",
+        "Events": "Events",
+        "EventsList": "Events List",
+        "Forms": "Forms",
+        "FormsList": "Forms List",
+        "FormsBuilder": "FormsBuilder",
+        "Exhibitors": "Exhibitors"
+    },
+    "Modules": {
+        "Dashboard": {
+            "Title": "Dashboard"
+        },
+        "Users": {
+            "Title": "Users",
+            "AddUser": "Add User",
+            "EditUser": "Edit User",
+            "ViewUser": "ViewUser"
+        },
+        "Events": {
+            "Title": "Events",
+            "AddEvent": "Add Event",
+            "EditEvent": "Edit Event",
+            "ViewEvent": "View Event"
+        },
+        "Forms": {
+            "Title": "Forms",
+            "AddForm": "Add Form",
+            "EditForm": "Edit Form",
+            "ViewForm": "View Form"
+        },
+        "Exhibitors": {
+            "Title": "Exhibitors",
+            "AddExhibitor": "Add Exhibitor",
+            "EditExhibitor": "Edit Exhibitor",
+            "ViewExhibitor": "View Exhibitor"
+        },
+        "RolesPermissions": "Roles & Permissions",
+        "Roles": {
+            "Title": "الأدوار",
+            "AddRole": "إضافة دور",
+            "EditRole": "تعديل دور",
+            "ViewRole": "عرض دور"
+        },
+        "Permissions": {
+            "Title": "الأذونات",
+            "AddPermission": "إضافة اذن",
+            "EditPermission": "تعديل اذن",
+            "ViewPermission": "عرض اذن"
+        },
+        "Reports": {
+            "Title": "التقارير",
+            "AddPermission": "إضافة تقرير",
+            "EditPermission": "تعديل تقرير",
+            "ViewPermission": "عرض تقرير"
+        },
+        "Members": {
+            "Title": "الأعضاء",
+            "AddPermission": "إضافة عضو",
+            "EditPermission": "تعديل عضو",
+            "ViewPermission": "عرض عضو"
+        },
+        "Delegates": {
+            "Title": "المندوبين",
+            "AddDelegate": "إضافة مندوب",
+            "EditDelegate": "تعديل مندوب",
+            "ViewDelegate": "عرض مندوب"
+        }
+    },
+    "Labels": {
+        "Choose": "Choose",
+        "Add": "Add",
+        "Edit": "Edit",
+        "Delete": "Delete",
+        "View": "View",
+        "Submit": "Submit",
+        "Cancel": "Cancel",
+        "Close": "Close",
+        "Save": "Save",
+        "Back": "Back",
+        "Next": "Next",
+        "Previous": "Previous",
+        "Update": "Update",
+        "Welcome": "Welcome",
+        "Model": "Model",
+        "Status": "Status",
+        "Active": "Active",
+        "Deactive": "Deactive",
+        "Activate": "Activate",
+        "Deactivate": "Deactivate",
+        "Signin": "Sign in",
+        "Signout": "Sign out",
+        "Name": "Name",
+        "Email": "Email",
+        "Username": "Username",
+        "Password": "Password",
+        "NPassword": "New Password",
+        "CPassword": "Confirm Password",
+        "ResetPass": "Reset Password",
+        "Mobile": "Mobile",
+        "Telephone": "Telephone",
+        "Phone": "Phone",
+        "Role": "Role",
+        "Description": "Description",
+        "LastUpdated": "Last Updated",
+        "CreatedDate": "Created Date",
+        "StartDate": "Start Date",
+        "EndDate": "End Date",
+        "NationalId": "NationalId",
+        "Search": "Search",
+        "JobTitle": "Job Title",
+        "Company": "Company",
+        "BadgePrinted": "Badge Printed",
+        "ResendOTP": "Resend OTP",
+        "Declined": "Declined",
+        "Approve": "Approve",
+        "Exhibitor": "Exhibitor",
+        "Event": "Event",
+        "User": "User",
+        "Sponsor": "Sponsor"
+    },
+    "Messages": {
+        "NE": "Network error",
+        "NEM": "Please check your connection",
+        "CntRvrt": "You won't be able to undo this.",
+        "Sure?": "Are you sure?",
+        "NotFound": "Page not found",
+        "NotFoundDesc": "Either there is an error or the page no longer exists",
+        "AD": "Access Denied",
+        "ADM": "You do not have permission to access this page",
+        "ADC": "For more information please contact your system administrator"
+    },
+    "Theme": {
+        "Theme": "السمات",
+        "Dark": "وضع الليل",
+        "Light": "وضع النهار",
+        "Rounded": "وضع مستدير"
+    }
+}
