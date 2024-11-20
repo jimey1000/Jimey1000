@@ -21,6 +21,8 @@
         "Nodejs",
         "NGRX",
         "RXJS",
-        "JQuery"
+        "JQuery",
+        "SVN",
+        "Git"
     ]
 }
