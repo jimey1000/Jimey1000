@@ -1,0 +1,26 @@
+{
+    "qualification": [
+        {
+            "year": "May 2014",
+            "name": "B.Sc. Information Systems, Operational Research and Decision Support (Major), Faculty of Computers and Information [FCI], Cairo University."
+        }
+    ],
+    "technology": [
+        "Angular",
+        "HTML5",
+        "CSS",
+        "SCSS",
+        "Grunt",
+        "Javascript",
+        "Bootstrap",
+        "Prime",
+        "Material",
+        "Ajax",
+        "Jade",
+        "Ionic",
+        "Nodejs",
+        "NGRX",
+        "RXJS",
+        "JQuery"
+    ]
+}

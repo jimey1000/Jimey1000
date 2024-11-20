@@ -1,0 +1,25 @@
+{
+    "name": "Ahmed Jamal Abo Elyazied Mohamed",
+    "title": "Frontend Technical Lead",
+    "email": "ahmed.jamal.yazied@gmail.com",
+    "address": "118 B/2 October Garden, Giza, Egypt",
+    "mobiles": [
+        "(+2) 01013599399"
+    ],
+    "linkedin": "https://www.linkedin.com/in/ahmed-jamal-aboelyazied/",
+    "summary": "Experienced Frontend Tech Lead with over 10 years of expertise in designing, developing, and delivering high-quality web applications and user interfaces. Proven track record of leading teams in implementing scalable, responsive, and accessible solutions using modern frameworks like Angular. Adept at defining technical strategies, mentoring developers, and driving cross-functional collaboration to meet business goals. Strong background in performance optimization, code quality, and implementing best practices in frontend development. Passionate about innovation and delivering exceptional user experiences, seeking a challenging opportunity to contribute technical expertise and creative problem-solving skills to drive digital success.",
+    "military": "Completed",
+    "dob": "12-4-1990",
+    "nationality": "Egyptian",
+    "marital": "Married",
+    "languages": [
+        {
+            "name": "Arabic",
+            "status": "Mother tounge"
+        },
+        {
+            "name": "English",
+            "status": "Good (spoken & written)"
+        }
+    ]
+}
