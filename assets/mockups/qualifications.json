@@ -15,16 +15,16 @@
         "Bootstrap",
         "Prime",
         "Material",
+        "Tailwind",
         "Ajax",
-        "Jade",
+        "Pug",
+        "EJS",
+        "Handlebars",
         "Nodejs",
         "Express",
         "MongoDB",
-        "Docker",
         "NGRX",
         "RXJS",
-        "JQuery",
-        "SVN",
-        "Git"
+        "JQuery"
     ]
 }
